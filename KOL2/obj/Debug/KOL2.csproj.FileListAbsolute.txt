@@ -1,0 +1,20 @@
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\bin\Debug\KOL2.exe.config
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\bin\Debug\KOL2.exe
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\bin\Debug\KOL2.pdb
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.csproj.AssemblyReference.cache
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.Form1.resources
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.Properties.Resources.resources
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.csproj.GenerateResource.cache
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.exe
+C:\Users\student\OneDrive\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.pdb
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\bin\Debug\KOL2.exe.config
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\bin\Debug\KOL2.exe
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\bin\Debug\KOL2.pdb
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.Form1.resources
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.Properties.Resources.resources
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.csproj.GenerateResource.cache
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.exe
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\C#\KOL2\KOL2\KOL2\obj\Debug\KOL2.pdb
